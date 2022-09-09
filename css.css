@@ -1,0 +1,20 @@
+.block {
+    background-color: blanchedalmond;
+    width:600px ;
+    height: 100px;
+}
+
+.text {
+    color: black;
+}
+
+.block_two {
+    background-color:cornflowerblue ;
+    width: 300px;
+    height: 20px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
